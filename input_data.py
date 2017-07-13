@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+	#!/usr/bin/env python
 
 """Functions for downloading and reading MNIST data."""
 import gzip
